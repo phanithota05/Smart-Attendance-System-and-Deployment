@@ -17,7 +17,8 @@ This is a robust attendance management system powered by facial recognition tech
 
 ## Screenshots
 <img width="551" alt="image" src="https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS/assets/139221125/e9e339bd-670b-4f32-8953-a1bffca9ea3f">
-![WhatsApp Image 2024-06-06 at 15 21 15_d1b1a099](https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS/assets/139221125/4122dc21-5706-4feb-aab1-bfb55e304294)
+
+<img width="686" alt="image" src="https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS/assets/139221125/cdeead62-7a9b-4746-ae22-941fd2cdafac">
 
 ## Requirements
 - Python (latest version)
