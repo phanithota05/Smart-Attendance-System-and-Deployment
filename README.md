@@ -1,6 +1,6 @@
 # Smart-Attendance-System-and-Deployment-in-Aws
 
-This repository hosts the code and resources for a comprehensive course on building a complete attendance system using face recognition technology. The course covers the principles of face recognition, image processing, and machine learning algorithms necessary for developing an accurate and reliable attendance system. Utilizing Python programming language and various libraries such as OpenCV, Numpy, Pandas, Insightface, and Redis, participants will learn to create a fully functional attendance system from scratch.
+This is a robust attendance management system powered by facial recognition technology. This project aims to automate the attendance tracking process using advanced AI algorithms, providing a seamless solution for educational institutions, workplaces, and events. Deployed on AWS, it offers scalability, security, and real-time tracking features. 
 
 ## Course Content
 - **Introduction:** Overview of face recognition technology and its applications in attendance systems.
@@ -16,24 +16,34 @@ This repository hosts the code and resources for a comprehensive course on build
 - **Reporting:** Generating attendance reports for analysis and visualization.
 
 ## Screenshots
-Include screenshots of your application here.
+<img width="551" alt="image" src="https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS/assets/139221125/e9e339bd-670b-4f32-8953-a1bffca9ea3f">
+![WhatsApp Image 2024-06-06 at 15 21 15_d1b1a099](https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS/assets/139221125/4122dc21-5706-4feb-aab1-bfb55e304294)
 
 ## Requirements
-- Python 3.x
+- Python (latest version)
 - OpenCV
 - Numpy
 - Pandas
 - Insightface
 - Redis
 - Streamlit
+- matplotlib
+- scipy
+- jupyter
+- pillow
+- scikit-learn
+  
+
 
 ## Usage
 1. **Clone the repository:**
 - git clone https://github.com/phanithota05/Smart-Attendance-System-and-Deployment-in-AWS.git
 2. **Install the required dependencies:**
 pip install -r requirements.txt
-3. Follow the course materials and instructions provided in the respective folders.
 
 ## Contributors
 - Thota Phani Rama Chandra Rao(https://github.com/phanithota05)
 - **Email:** phanithota2004@gmail.com
+- Sathvik Katuru(https://github.com/sathvikkaturu)
+- **Email:** sathvikkaturu28@gmail.com
+  
