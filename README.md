@@ -42,9 +42,7 @@ This is a robust attendance management system powered by facial recognition tech
 2. **Install the required dependencies:**
 pip install -r requirements.txt
 
-## Contributors
+## Contributor
 - Thota Phani Rama Chandra Rao(https://github.com/phanithota05)
 - **Email:** phanithota2004@gmail.com
-- Sathvik Katuru(https://github.com/sathvikkaturu)
-- **Email:** sathvikkaturu28@gmail.com
   
