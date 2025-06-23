@@ -44,5 +44,6 @@ pip install -r requirements.txt
 
 ## Contributor
 - Thota Phani Rama Chandra Rao(https://github.com/phanithota05)
+- Katuru Sathvik
 - **Email:** phanithota2004@gmail.com
   
